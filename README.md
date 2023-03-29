@@ -1,4 +1,4 @@
-# Projeto de Ciência de Dados - Previsão de preço de imóveis do Airbnb do Rio de Janeiro
+# Projeto de Ciência de Dados - Previsão de preço de imóveis do Airbnb do Rio de Janeiro para pessoas comuns
 
 # Sobre o projeto
 Projeto realizado através do curso Python Impressionador da Hashtag Treinamentos.
