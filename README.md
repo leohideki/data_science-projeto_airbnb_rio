@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Projeto realizado através do curso Python Impressionador da Hashtag Treinamentos.
+Projeto realizado junto ao curso Python Impressionador da empresa Hashtag Treinamentos.
 
 O projeto tem como objetivo prever o preço de imóveis anunciados no airbnb no Rio de Janeiro. No Airbnb, qualquer pessoa que tenha um quarto ou um imóvel de qualquer tipo (apartamento, casa, chalé, pousada, etc.) pode ofertar o seu imóvel para ser alugado por diária.
 
@@ -15,17 +15,17 @@ As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbr
 ## Tecnologias Utilizadas:
 
 O projeto foi realizado utilizando a linguagem python:
-- pandas (extração e tratamento de dados)
-- sckit-learn (para criação e treinamento dos modelos de aprendizado de máquina)
-- numpy
-- matplotlib (criação de gráficos para análise dos dados)
-- seaborn
+- pandas (extração e tratamento de dados);
+- sckit-learn (para criação e treinamento dos modelos de aprendizado de máquina);
+- numpy;
+- matplotlib (criação de gráficos para análise dos dados);
+- seaborn (criação de gráficos para análise dos dados).
 
 ## Explicação do projeto:
 
 Constituido de 2 principais arquivos:
-- Copy of Solução Airbnb Rio.ipynb - Onde foi feito toda a parte desde a extração, análise, tratamento de dados, até a criação, treinamento e ajustes do modelo de machine learning
-- DeployProjetoAirbnb.py - Deploy do projeto utilizando joblib e streamlit, esta forma de deploy funciona apenas em sua máquina e as máquinas conectadas no mesmo wi-fi
+- Copy of Solução Airbnb Rio.ipynb - Onde foi feito toda a parte desde a extração, análise, tratamento de dados, até a criação, treinamento e ajustes do modelo de machine learning.
+- DeployProjetoAirbnb.py - Deploy do projeto utilizando joblib e streamlit, esta forma de deploy funciona apenas em sua máquina e as máquinas conectadas no mesmo wi-fi.
 
 # Autor
 
